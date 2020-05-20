@@ -1,0 +1,25 @@
+
+#input_div {
+    font-size: large;
+}
+
+#input_tape, #input_program {
+    font-size: medium;
+    width: 450px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#start_button {
+    margin-top: 10px;
+    border: outset;
+    width: 150px;
+    height: 29px;
+    font-size: large;
+}
+
+#result_text {
+    margin-top: 25px;
+    width: 605px;
+    height: 400px;
+}

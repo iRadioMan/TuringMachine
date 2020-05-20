@@ -1,0 +1,7 @@
+1. Перенос первого символа в конец ленты
+q1a-a0q2, q1b-a0q3, q2a0-Rq4, q3a0-Rq5, q4a0-aq0, q4a-Rq4, q4b-Rq4, q5a0-bq0, q5a-Rq5, q5b-Rq5
+
+2. Дублирование слова
+q1a0-*q2, q2a0-Rq3, q4a0-aq6, q5a0-bq6, q8a0-Lq13, q1a-Rq1, q2a-Lq2, q3a-Aq4, q4a-Rq4, q5a-Rq5, q6a-Lq6, q7a-Rq3, q8a-Lq9, q9a-aq11, q10a-bq11, q11a-Rq12, q12a-Rq8, q13a-a0q0, q1b-Rq1, q2b-Lq2, q3b-Bq5, q4b-Rq4, q5b-Rq5, q6b-Lq6, q7b-Rq3, q8b-Lq10, q9b-aq11, q10b-bq11, q11b-Rq12, q12b-Rq8, q13b-a0q0, q4A-Rq4, q6A-aq7, q5B-Rq5, q6B-bq7, q2*-Lq2, q3*-Rq8, q4*-Rq4, q5*-Rq5, q6*-Lq6, q9*-aq11, q10*-bq11
+//версия от Кирилла: a1 = A, b1 = B, a2 = C, b2 = D
+q1a0-Rq6, q1a-Rq2, q1b-Rq3, q1A-Lq1, q1B-Lq1, q1C-Lq1, q1D-Lq1, q2a0-Aq4, q2a-Rq2, q2b-Rq2, q2A-Rq2, q2B-Rq2, q3a0-Bq4, q3a-Rq3, q3b-Rq3, q3A-Rq3, q3B-Rq3, q4a0-Rq5, q4a-Lq4, q4b-Lq4, q4A-Lq4, q4B-Lq4, q4C-Rq5, q4D-Rq5, q5a-Cq5, q5b-Dq5, q5C-Rq1, q5D-Rq1, q6a0-a0q0, q6a-Rq6, q6b-Rq6, q6A-aq6, q6B-bq6, q6C-aq6, q6D-bq6
